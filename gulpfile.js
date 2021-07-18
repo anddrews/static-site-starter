@@ -65,7 +65,7 @@ const httpBuild = () => src(path.src.html)
     basepath: '@file'
   }))
   .pipe(replace(/(<link rel="stylesheet" href=").+\/(main.)scss(">)/, '$1/css/$2css$3'))
-  .pipe(replace(/(src=").+(\/img)/g, '$1$2'))
+  .pipe(replace(/(src=").+(\/img)/g, '$1.$2'))
   .pipe(dest(path.dist.html))
   .pipe(browsersync.stream());
 
