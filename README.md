@@ -10,5 +10,6 @@
 - npm run start on localhost:9000
 
 ## Features
-- support gulp-include (https://www.npmjs.com/package/gulp-include)
+- supports gulp-include (https://www.npmjs.com/package/gulp-include)
   just create a partial html in /partials folder like _<file-name>.html. Underscore sign is required.
+- supports scss preprocessor
