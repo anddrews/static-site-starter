@@ -7,7 +7,7 @@
 - npm install
 
 ## Run
-- npm run start on localhost:9000
+- npm run start
 
 ## Features
 - supports gulp-include (https://www.npmjs.com/package/gulp-include)
