@@ -15,5 +15,5 @@
 ## Features
 
 - supports handlebars partials (https://handlebarsjs.com/guide/partials.html)
-  just create a partial html in /partials folder like <file-name>.html.
+  just create a partial html in /partials folder like \<file-name\>.html.
 - supports scss preprocessor
