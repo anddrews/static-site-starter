@@ -8,6 +8,7 @@
     "object-curly-spacing": "off",
     "object-curly-newline": "off",
     "import/prefer-default-export": "off",
+    "import/no-extraneous-dependencies": ["error", {"devDependencies": true}],
     "no-console":"off",
     "max-len": [
       "error",
