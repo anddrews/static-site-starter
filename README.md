@@ -1,7 +1,7 @@
 ## Simple system to build static sites based on HTML/CSS/JS without building JS.
 
 ## Requirements
-- Node.js 12.18.x
+- Node.js 14.19.x
 
 ## Setup 
 - npm install
